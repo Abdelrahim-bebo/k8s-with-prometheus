@@ -7,6 +7,9 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-Alerting-orange?style=for-the-badge\&logo=prometheus)
 ![Slack](https://img.shields.io/badge/Slack-Integration-4A154B?style=for-the-badge\&logo=slack)
 
+
+<img src="Prometheus-project.png" alt="Kubernetes Observability Architecture Diagram" width="100%" />
+  <br><br>
 ---
 
 # 📖 Project Overview
